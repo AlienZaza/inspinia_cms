@@ -128,8 +128,7 @@
   </div>
 </template>
 <script>
-//import datepickerSimple from '@/components/smallComponents/datepicker-simple'
-//import datepicker from '@/components/smallComponents/datepicker'
+
 import Calendar from '@/components/smallComponents/calendar.vue'
 
 export default {
